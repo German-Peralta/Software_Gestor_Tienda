@@ -5,7 +5,15 @@ Este software consiste en un ERP sencillo adaptado a las necesidades de las pequ
 En el siguiente enlace podemos ver una presentación con un ejemplo de uso del software
 
 
-<p align="center"><iframe src="https://player.vimeo.com/video/654730001?h=fc0413ef16" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></p>
+https://player.vimeo.com/video/654730001?h=fc0413ef16
+
+## Documentación
+
+En los siguientes enlaces se encuentra toda la documentación relativa al proyecto:
+
+- [Memoria del proyecto](https://github.com/German-Peralta/Software_Gestor_Tienda/blob/master/DOCUMENTACION/MEMORIA.pdf)
+- [Manual del programador](https://github.com/German-Peralta/Software_Gestor_Tienda/blob/master/DOCUMENTACION/MANUAL%20DEL%20PROGRAMADOR.pdf)
+- [Manual de usuario](https://github.com/German-Peralta/Software_Gestor_Tienda/blob/master/DOCUMENTACION/MANUAL%20DE%20USUARIO.pdf)
 
 
 ![menu_principal](https://github.com/German-Peralta/Software_Gestor_Tienda/blob/master/SOFTWARE%20GESTOR%20DE%20TIENDA/src/Imagenes/Menu_principal.png)
@@ -19,36 +27,6 @@ En el siguiente enlace podemos ver una presentación con un ejemplo de uso del s
 ![informe_IVA](https://github.com/German-Peralta/Software_Gestor_Tienda/blob/master/SOFTWARE%20GESTOR%20DE%20TIENDA/src/Imagenes/informe_IVA.png)
 
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
 
 
 
